@@ -4,7 +4,7 @@
 
 ## About This Repository
 
-This repository is designed to help beginners learn Linux from the ground up. Whether you're preparing for a career in IT, system administration, or just want to understand this powerful operating system, this guide will walk you through essential concepts and commands.
+Hi everyone i am faeze and i design This repository to help beginners learn Linux from the ground up. Whether you're preparing for a career in IT, system administration, or just want to understand this powerful operating system, this guide will walk you through essential concepts and commands.
 
 ## What is Linux?
 
